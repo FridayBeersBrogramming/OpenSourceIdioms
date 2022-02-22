@@ -46,4 +46,7 @@ Meaning: raining very heavily
 Example: I wanted to go to play outside, but it was raining cats and dogs yesterday.
 
 
+# So why don't you add an Idiom? 
+Fork this repo, add a text file with an idiom, and create a pull request! And boom, you're contributing! 😃
 
+(I am going to add some instructions below on the forking and pull request process) 
