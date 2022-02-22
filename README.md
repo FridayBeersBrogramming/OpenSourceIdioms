@@ -10,4 +10,40 @@ Idioms evolve the language; they are the building blocks of a language and civil
 So what makes idioms difficult?
 The answer is their meanings. Idioms are not easy to understand – especially for non-native speakers, because their intentions are usually symbolic. This characteristic makes them strange and difficult to understand for English learners.
 
-Source: www.theidioms.com
+# Top 5 Idioms 
+
+## 1. hot potato
+
+Meaning: a controversial issue or situation that is awkward or unpleasant to deal with.
+
+Example: The subject of bullying and fighting in my school is a hot potato.
+
+
+## 2. piece of cake
+
+Meaning: something that is easy to do
+
+Example: Learning English is a piece of cake as long as you do it with our website
+
+## 3. once in a blue moon
+
+Meaning: very rarely
+
+Example: I go to visit my grandfather only once in a blue moon; he lives in a remote farm house.
+
+
+## 4. a bed of roses
+
+Meaning: easy option
+
+Example: Taking care of my younger sister is no bed of roses; she is very silly.
+
+
+## 5. raining cats and dogs
+
+Meaning: raining very heavily
+
+Example: I wanted to go to play outside, but it was raining cats and dogs yesterday.
+
+
+
