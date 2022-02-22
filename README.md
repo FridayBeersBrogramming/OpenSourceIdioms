@@ -1,5 +1,5 @@
 # Open Source Idioms
-Idioms are fun. Contributing to open source is fun. This a repo for new devs who want to learnt how to contribute to open source, the nice and friendly way.
+Idioms are fun. Contributing to open source is fun. This a repo for new devs who want to learn how to contribute to open source, the nice and friendly way.
 
 An idiom is a phrase, saying, or a group of words with a metaphorical (not literal) meaning, which has become accepted in common usage.
 
