@@ -52,14 +52,14 @@ Fork this repo, add a text file with an idiom, and create a pull request! And bo
 (I am going to add some instructions below on the forking and pull request process) 
 
 
-## User Idioms 
-###### **_rob Peter to pay Paul_**
+# User Idioms 
+## **_rob Peter to pay Paul_**
 
 Meaning: to cause harm to one person in order to do good for another.
 
 Example: I moved money from the college savings account to my main account so the debit would clear, robbing Peter to pay Paul.
 
-###### **_You can't have your cake and eat it_**
+## **_You can't have your cake and eat it_**
 
 Meaning: You can't have two good things at the same time that don't normally go together.
 
