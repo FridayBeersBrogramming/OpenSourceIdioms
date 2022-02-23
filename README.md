@@ -50,3 +50,17 @@ Example: I wanted to go to play outside, but it was raining cats and dogs yester
 Fork this repo, add a text file with an idiom, and create a pull request! And boom, you're contributing! 😃
 
 (I am going to add some instructions below on the forking and pull request process) 
+
+
+## User Idioms 
+### rob Peter to pay Paul
+
+Meaning: to cause harm to one person in order to do good for another.
+
+Example: I moved money from the college savings account to my main account so the debit would clear, robbing Peter to pay Paul.
+
+### You can't have your cake and eat it
+
+Meaning: You can't have two good things at the same time that don't normally go together.
+
+Example: He spends so much time working to provide for his family that he that he can barely afford to spend time with them; he can't have his cake and eat it too.
