@@ -53,14 +53,15 @@ Fork this repo, add a text file with an idiom, and create a pull request! And bo
 
 
 ## User Idioms 
-### rob Peter to pay Paul
+###### rob Peter to pay Paul
 
 Meaning: to cause harm to one person in order to do good for another.
 
 Example: I moved money from the college savings account to my main account so the debit would clear, robbing Peter to pay Paul.
 
-### You can't have your cake and eat it
+###### You can't have your cake and eat it
 
 Meaning: You can't have two good things at the same time that don't normally go together.
 
 Example: He spends so much time working to provide for his family that he that he can barely afford to spend time with them; he can't have his cake and eat it too.
+Credit: CrescentVisor
