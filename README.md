@@ -47,7 +47,7 @@ Example: I wanted to go to play outside, but it was raining cats and dogs yester
 
 
 ## So why don't you add an Idiom?
-Fork this repo, add a text file with an idiom, and create a pull request! And boom, you're contributing! 😃
+Fork this repo, add a text file with an idiom, and create a pull request! And boom, you're contributing! 😃 (There are examples but no pressure - you can add as much or as little detail as you like!)
 
 (I am going to add some instructions below on the forking and pull request process) 
 
